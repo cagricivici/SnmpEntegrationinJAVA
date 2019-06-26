@@ -33,13 +33,21 @@ P.S:** If used java 1.8.212 version, this error occurs: "java.lang.UnsupportedCl
 After Compiling;
 
 OUTPUT:
+
   Hardware: Intel64 Family 6 Model 60 Stepping 3 AT/AT COMPATIBLE - Software: Windows Version 6.3 (Build 9600 Multiprocessor Free)  //systemDescription
+  
   PELCO-Q7SRR253L //systemName
+  
   20:40:31.31 //systemuptime
+  
   31 days, 21:13:10.42  //hardware system up time
+  
   20:40:31.31 //last software update time
+  
   33510324 //memory size
+  
   2420448 //storage capacity
+  
 OUTPUT:
 
 
